@@ -4,3 +4,6 @@
 [submodule "aind2-cnn"]
 	path = aind2-cnn
 	url = git@github.com:ArmandoHernandez/aind2-cnn.git
+[submodule "dermatologist-ai"]
+	path = dermatologist-ai
+	url = git@github.com:udacity/dermatologist-ai.git
