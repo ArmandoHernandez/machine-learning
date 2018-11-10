@@ -7,3 +7,6 @@
 [submodule "dermatologist-ai"]
 	path = dermatologist-ai
 	url = git@github.com:udacity/dermatologist-ai.git
+[submodule "projects/dog-project"]
+	path = projects/dog-project
+	url = git@github.com:ArmandoHernandez/dog-project.git
