@@ -10,6 +10,3 @@
 [submodule "projects/dog-project"]
 	path = projects/dog-project
 	url = git@github.com:ArmandoHernandez/dog-project.git
-[submodule "reinforcementLearning/reinforcement-learning"]
-	path = reinforcementLearning/reinforcement-learning
-	url = https://github.com/udacity/reinforcement-learning.git
