@@ -1,9 +1,6 @@
 [submodule "projects/practice_projects/deep-learning"]
 	path = projects/practice_projects/deep-learning
 	url = git@github.com:ArmandoHernandez/deep-learning.git
-[submodule "aind2-cnn"]
-	path = aind2-cnn
-	url = git@github.com:ArmandoHernandez/aind2-cnn.git
 [submodule "dermatologist-ai"]
 	path = dermatologist-ai
 	url = git@github.com:udacity/dermatologist-ai.git
